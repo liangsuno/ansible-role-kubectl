@@ -1,0 +1,5 @@
+---
+# defaults file for ansible-role-kubectl
+
+kubectl_version: "1.9.0"
+install_folder: "/usr/local/bin"

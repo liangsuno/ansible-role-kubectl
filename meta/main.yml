@@ -1,0 +1,20 @@
+---
+galaxy_info:
+  author: Ooi Liang Sun <liangsun@gmail.com>
+  description: kubectl installation for Linux
+  license: "license (BSD)"
+  min_ansible_version: 2.3
+  galaxy_tags:
+    - kubectl
+  platforms:
+    - name: EL
+      versions:
+      - 6
+      - 7
+    - name: Debian
+      versions:
+      - jessie
+    - name: Ubuntu
+      versions:
+      - trusty
+      - xenial
